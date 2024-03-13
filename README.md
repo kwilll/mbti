@@ -5,7 +5,7 @@
 
 1. Create a new Conda env and install the required packages.
 ```sh
-conda create --name mbti python numpy pandas scikit-learn seaborn matplotlib
+conda create --name mbti python numpy pandas scikit-learn seaborn matplotlib nltk
 ```
 
 2. Activate the enviornment
